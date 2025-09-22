@@ -1637,3 +1637,33 @@ body {
     text-align: center;
   }
 }
+/* Footer Legale */
+.legal-footer {
+    background: #1a1a2e;
+    border-top: 2px solid #8B5CF6;
+    padding: 40px 0;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.footer-links a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid #8B5CF6;
+    border-radius: 25px;
+    margin: 0 10px;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.footer-links a:hover {
+    background: #8B5CF6;
+    transform: translateY(-2px);
+}
+
+.legal-footer p {
+    color: #cccccc;
+    margin-top: 20px;
+    font-size: 14px;
+}
