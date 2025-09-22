@@ -1,0 +1,218 @@
+# Cookie Policy - NBC Talk
+
+*Ultimo aggiornamento: 22 Settembre 2025*
+
+## 1. Che Cosa Sono i Cookie
+
+I cookie sono piccoli file di testo che vengono memorizzati sul tuo dispositivo quando visiti il nostro sito web. Questi file aiutano il sito a funzionare correttamente e a offrirti una migliore esperienza di navigazione.
+
+## 2. Come Utilizziamo i Cookie
+
+NBC Talk utilizza un approccio **privacy-first** con un uso minimo di cookie:
+
+### 2.1 Cookie Essenziali (Non Disabilitabili)
+Questi cookie sono strettamente necessari per il funzionamento del sito:
+
+| Cookie | Scopo | Durata | Tipo |
+|--------|-------|--------|------|
+| `session_token` | Mantiene la tua sessione attiva | Sessione | Tecnico |
+| `security_csrf` | Protezione da attacchi CSRF | 24 ore | Sicurezza |
+| `lang_pref` | Ricorda la lingua scelta | 30 giorni | Funzionale |
+
+### 2.2 Cookie di Funzionalità (Opzionali)
+Questi cookie migliorano la tua esperienza sul sito:
+
+| Cookie | Scopo | Durata | Tipo |
+|--------|-------|--------|------|
+| `theme_preference` | Ricorda tema scuro/chiaro | 90 giorni | Preferenze |
+| `cookie_consent` | Ricorda le tue scelte sui cookie | 1 anno | Consenso |
+| `form_data` | Salva temporaneamente i dati dei form | 1 ora | Funzionale |
+
+### 2.3 Cookie NON Utilizzati
+**NBC Talk NON utilizza**:
+- ❌ Cookie di tracciamento pubblicitario
+- ❌ Cookie di profilazione comportamentale  
+- ❌ Cookie di social media esterni
+- ❌ Cookie di analisi invasiva (Google Analytics, ecc.)
+- ❌ Cookie di retargeting
+
+## 3. Base Giuridica per l'Utilizzo
+
+### 3.1 Cookie Essenziali
+- **Base giuridica**: Interesse legittimo
+- **Motivo**: Necessari per fornire il servizio richiesto
+- **Consenso**: Non richiesto (essenziali per il funzionamento)
+
+### 3.2 Cookie di Funzionalità
+- **Base giuridica**: Consenso
+- **Motivo**: Migliorare la tua esperienza utente
+- **Consenso**: Richiesto e revocabile
+
+## 4. Come Gestire i Cookie
+
+### 4.1 Pannello di Consenso
+Quando visiti il nostro sito per la prima volta, vedrai un banner che ti permette di:
+- ✅ **Accettare tutti**: Consenti tutti i cookie opzionali
+- ⚙️ **Personalizza**: Scegli quali cookie abilitare
+- ❌ **Solo essenziali**: Usa solo cookie tecnici necessari
+
+### 4.2 Modifica delle Preferenze
+Puoi cambiare le tue preferenze in qualsiasi momento:
+- **Link nel footer**: "Impostazioni Cookie"
+- **Pagina dedicata**: [nbctalk.app/cookie-preferences]
+- **Banner periodico**: Ogni 6 mesi ti chiederemo di confermare le preferenze
+
+### 4.3 Impostazioni del Browser
+Puoi anche gestire i cookie direttamente nel tuo browser:
+
+#### Google Chrome
+1. Menu → Impostazioni → Privacy e sicurezza → Cookie
+2. Scegli le opzioni desiderate
+3. Gestisci eccezioni per siti specifici
+
+#### Mozilla Firefox  
+1. Menu → Impostazioni → Privacy e sicurezza
+2. Cookie e dati dei siti web
+3. Personalizza le impostazioni
+
+#### Safari
+1. Safari → Preferenze → Privacy
+2. Gestisci cookie e dati dei siti web
+3. Imposta le tue preferenze
+
+#### Microsoft Edge
+1. Menu → Impostazioni → Privacy, ricerca e servizi
+2. Cookie e autorizzazioni sito
+3. Configura le opzioni
+
+## 5. Cookie di Terze Parti
+
+### 5.1 Limitazioni Severe
+NBC Talk limita drasticamente l'uso di servizi esterni:
+- **CDN**: Solo per librerie JavaScript essenziali (nessun tracking)
+- **Hosting**: GitHub Pages (cookie tecnici minimi)
+- **Email**: Solo per supporto tecnico (no tracking)
+
+### 5.2 Nessun Tracking Pubblicitario
+**Garanzia**: Il nostro sito NON include:
+- Google Ads / Facebook Pixel
+- Tracciamento cross-site
+- Widget social invasivi
+- Analytics comportamentali
+- Retargeting di alcun tipo
+
+## 6. Dati Raccolti tramite Cookie
+
+### 6.1 Informazioni Tecniche (Cookie Essenziali)
+- **Indirizzo IP**: Registrato solo temporaneamente per sicurezza
+- **User-Agent**: Per ottimizzare la visualizzazione
+- **Timestamp**: Per gestire sessioni e sicurezza
+- **Errori tecnici**: Per risolvere problemi di funzionamento
+
+### 6.2 Preferenze Utente (Cookie Opzionali)
+- **Lingua**: Italiano, inglese, altre lingue supportate
+- **Tema visivo**: Scuro, chiaro, automatico
+- **Impostazioni accessibilità**: Dimensione testo, contrasto
+
+### 6.3 Dati NON Raccolti
+- ❌ Cronologia di navigazione
+- ❌ Informazioni personali identificative
+- ❌ Abitudini di consumo
+- ❌ Interessi commerciali
+- ❌ Dati sensibili di qualsiasi tipo
+
+## 7. Conservazione dei Cookie
+
+### 7.1 Durata Cookie
+| Tipo | Durata Massima | Motivo |
+|------|----------------|--------|
+| Sessione | Fine della sessione browser | Sicurezza |
+| Tecnici | 24 ore | Funzionamento minimo |
+| Preferenze | 90 giorni | Comodità utente |
+| Consenso | 12 mesi | Conformità legale |
+
+### 7.2 Cancellazione Automatica
+- **Pulizia automatica**: Cookie scaduti rimossi automaticamente
+- **Reset periodico**: Ogni 6 mesi ti chiediamo conferma preferenze
+- **Cancellazione volontaria**: Puoi sempre cancellare tutti i cookie
+
+## 8. Cookie e App Mobile
+
+### 8.1 App NBC Talk
+L'applicazione mobile NBC Talk:
+- **NON utilizza cookie web**: Usa solo storage locale dell'app
+- **Dati locali**: Tutto conservato sul tuo dispositivo
+- **Nessun tracking**: Zero tracciamento comportamentale
+- **Privacy totale**: I tuoi messaggi non toccano mai i nostri server
+
+### 8.2 Differenze Sito vs App
+| Funzione | Sito Web | App Mobile |
+|----------|----------|------------|
+| Cookie | Minimi necessari | Nessuno |
+| Storage | Cookie + LocalStorage | Solo locale |
+| Tracking | Zero | Zero |
+| Privacy | Alta | Massima |
+
+## 9. I Tuoi Diritti
+
+### 9.1 Diritti GDPR sui Cookie
+- **Consenso**: Libero, specifico, informato e revocabile
+- **Informazione**: Sapere quali cookie utilizziamo
+- **Controllo**: Decidere quali accettare
+- **Cancellazione**: Rimuovere cookie in qualsiasi momento
+- **Portabilità**: Esportare le tue preferenze
+
+### 9.2 Come Esercitare i Diritti
+- **Email**: cookie@nbctalk.app
+- **Pannello impostazioni**: Direttamente sul sito
+- **Browser**: Usando le impostazioni del browser
+- **Supporto**: Contatta il nostro team tecnico
+
+## 10. Aggiornamenti della Cookie Policy
+
+### 10.1 Modifiche
+Questa Cookie Policy può essere aggiornata per:
+- **Conformità normativa**: Nuove leggi sui cookie
+- **Miglioramenti tecnici**: Nuove funzionalità del sito
+- **Feedback utenti**: Maggiore chiarezza e trasparenza
+
+### 10.2 Notifiche di Modifica
+Ti informeremo di modifiche sostanziali tramite:
+- **Banner sul sito**: Notifica visibile alla prima visita
+- **Email**: Se hai fornito il tuo indirizzo
+- **Data di aggiornamento**: Sempre indicata in cima alla policy
+
+## 11. Conformità Normativa
+
+### 11.1 Normative Rispettate
+- **GDPR (UE)**: Regolamento Generale Protezione Dati
+- **ePrivacy Directive**: Direttiva cookie europea
+- **CCPA (California)**: California Consumer Privacy Act
+- **LGPD (Brasile)**: Lei Geral de Proteção de Dados
+
+### 11.2 Principi Applicati
+- **Privacy by design**: Privacy integrata fin dalla progettazione
+- **Minimizzazione dati**: Solo dati strettamente necessari
+- **Trasparenza**: Informazioni chiare e comprensibili
+- **Controllo utente**: Tu decidi sempre cosa accettare
+
+## 12. Contatti
+
+### 12.1 Domande sui Cookie
+**Email**: cookie@nbctalk.app  
+**Oggetto**: Cookie Policy - [La tua domanda]  
+**Risposta**: Entro 72 ore
+
+### 12.2 Problemi Tecnici
+Se hai problemi con i cookie:
+1. **Prova prima**: Cancella cache e cookie del browser
+2. **Documenta**: Fai screenshot del problema
+3. **Contattaci**: Invia dettagli a support@nbctalk.app
+
+---
+
+**Questa Cookie Policy è effettiva dal 22 Settembre 2025.**
+
+**Ricorda**: La tua privacy è la nostra priorità. Utilizziamo solo i cookie strettamente necessari per offrirti il miglior servizio possibile.
+
+Per gestire le tue preferenze sui cookie: **[Impostazioni Cookie]**

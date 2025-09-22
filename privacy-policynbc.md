@@ -1,0 +1,143 @@
+# Privacy Policy - NBC Talk
+
+*Ultimo aggiornamento: 22 Settembre 2025*
+
+## 1. Introduzione
+
+NBC Talk è un'applicazione di messaggistica decentralizzata che rispetta la tua privacy. Questa Privacy Policy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando utilizzi la nostra piattaforma.
+
+## 2. Informazioni che Raccogliamo
+
+### 2.1 App di Messaggistica (Gratuita)
+- **Nessun dato di messaggistica**: I tuoi messaggi sono criptati end-to-end e NON vengono mai registrati sui nostri server
+- **Informazioni tecniche minime**: Indirizzo IP temporaneo per il funzionamento del servizio (non conservato)
+- **Metadati di rete**: Solo quelli necessari per il routing decentralizzato dei messaggi
+
+### 2.2 Mastercard Anonima (Su Richiesta)
+Se richiedi la Mastercard anonima, raccogliamo:
+- **Documento di identità**: Per il KYC base richiesto dalla normativa
+- **Informazioni di verifica**: Nome e data di nascita dal documento ID
+- **Indirizzo di residenza**: Solo se richiesto per la spedizione della carta
+- **Nessun dato finanziario**: Non conserviamo informazioni bancarie o di conto corrente
+
+### 2.3 Wallet Crypto (Su Richiesta)
+Se attivi il wallet crypto:
+- **Chiavi pubbliche**: Per identificare il tuo wallet sulla blockchain
+- **Storico transazioni**: Solo quello pubblicamente disponibile sulla blockchain
+- **Chiavi private**: NON vengono mai trasmesse o conservate da noi (solo tu le controlli)
+
+## 3. Come Utilizziamo le Informazioni
+
+### 3.1 Finalità del Trattamento
+- **Fornitura del servizio**: Abilitare la messaggistica decentralizzata
+- **Conformità normativa**: KYC per servizi finanziari quando richiesti
+- **Sicurezza**: Prevenire frodi e attività illecite
+- **Miglioramento tecnico**: Ottimizzare le prestazioni della rete
+
+### 3.2 Base Giuridica (GDPR)
+- **Consenso**: Per l'uso dell'app di messaggistica
+- **Contratto**: Per la fornitura di carta e wallet (se richiesti)
+- **Obbligo legale**: Per il KYC richiesto dalla normativa antiriciclaggio
+- **Interesse legittimo**: Per la sicurezza e prevenzione frodi
+
+## 4. Condivisione delle Informazioni
+
+### 4.1 Non Condividiamo
+- **Contenuto dei messaggi**: Mai condiviso con terzi (tecnicamente impossibile)
+- **Dati personali**: Non venduti o ceduti a terze parti commerciali
+- **Informazioni di wallet**: Le tue crypto rimangono sotto il tuo controllo
+
+### 4.2 Condivisione Limitata
+Potremmo condividere informazioni solo quando:
+- **Richiesto dalla legge**: Ordini del tribunale o autorità competenti
+- **Fornitori di servizi**: Partner tecnici vincolati da accordi di riservatezza
+- **Prevenzione frodi**: Con autorità per prevenire attività criminali
+
+## 5. Protezione dei Dati
+
+### 5.1 Misure di Sicurezza
+- **Crittografia end-to-end**: Tutti i messaggi sono criptati sul tuo dispositivo
+- **Architettura zero-knowledge**: Non possiamo accedere ai tuoi dati anche se volessimo
+- **Blockchain decentralizzata**: Nessun server centrale da compromettere
+- **Protezione documenti**: I documenti KYC sono criptati e conservati in modo sicuro
+
+### 5.2 Conservazione dei Dati
+- **Messaggi**: NON conservati (decentralizzati e temporanei)
+- **Documenti KYC**: Conservati per il tempo richiesto dalla legge (5 anni)
+- **Dati tecnici**: Cancellati automaticamente dopo 30 giorni
+- **Diritto alla cancellazione**: Puoi richiedere la cancellazione dei tuoi dati quando possibile
+
+## 6. I Tuoi Diritti (GDPR)
+
+Hai i seguenti diritti sui tuoi dati personali:
+
+### 6.1 Diritti Disponibili
+- **Accesso**: Richiedere copia dei dati che abbiamo su di te
+- **Rettifica**: Correggere dati inesatti o incompleti
+- **Cancellazione**: Richiedere la cancellazione dei tuoi dati (dove possibile)
+- **Limitazione**: Limitare il trattamento dei tuoi dati
+- **Portabilità**: Ricevere i tuoi dati in formato leggibile
+- **Opposizione**: Opporti al trattamento basato su interesse legittimo
+
+### 6.2 Come Esercitare i Diritti
+Per esercitare i tuoi diritti, contattaci a: **privacy@nbctalk.app**
+
+## 7. Cookie e Tecnologie di Tracciamento
+
+Il nostro sito web utilizza tecnologie minime per il funzionamento. Vedi la nostra Cookie Policy per dettagli completi.
+
+## 8. Trasferimenti Internazionali
+
+### 8.1 Natura Decentralizzata
+- **Rete globale**: I messaggi possono transitare attraverso nodi in tutto il mondo
+- **Nessun controllo geografico**: La natura decentralizzata non permette controllo sulla localizzazione
+- **Protezione sempre attiva**: La crittografia protegge i dati indipendentemente dalla località
+
+### 8.2 Dati KYC
+- **Conservazione in UE**: I documenti di identità sono conservati in server europei
+- **Trasferimenti limitati**: Solo quando richiesto da leggi specifiche
+
+## 9. Utenti Minorenni
+
+NBC Talk è destinato a utenti maggiorenni (18+). Non raccogliamo consapevolmente dati di minori di 18 anni. Se veniamo a conoscenza di dati di minori, li cancelleremo immediatamente.
+
+## 10. Modifiche alla Privacy Policy
+
+### 10.1 Aggiornamenti
+Possiamo aggiornare questa policy per riflettere:
+- **Cambiamenti normativi**: Nuove leggi sulla privacy
+- **Miglioramenti tecnici**: Nuove funzionalità dell'app
+- **Feedback utenti**: Maggiore chiarezza basata sui vostri commenti
+
+### 10.2 Notifiche
+Ti avviseremo di modifiche significative tramite:
+- **Notifica nell'app**: Alert quando apri l'applicazione
+- **Email**: Se hai fornito un indirizzo email
+- **Sito web**: Pubblicazione della nuova versione
+
+## 11. Contatti
+
+### 11.1 Responsabile della Protezione Dati
+**Email**: privacy@nbctalk.app  
+**Risposta**: Entro 30 giorni dalla richiesta
+
+### 11.2 Autorità di Controllo
+Hai il diritto di presentare reclamo presso l'autorità di controllo competente per la protezione dei dati del tuo paese di residenza.
+
+## 12. Informazioni Tecniche Avanzate
+
+### 12.1 Architettura Zero-Knowledge
+- **Server blind**: I nostri server non possono decifrare i messaggi
+- **Chiavi locali**: Tutte le chiavi crittografiche sono generate e conservate sui tuoi dispositivi
+- **Nodi distribuiti**: Nessun punto centrale di controllo o registrazione
+
+### 12.2 Blockchain e Privacy
+- **Pseudonimato**: Le transazioni crypto sono pseudonime, non anonime
+- **Registro pubblico**: Le transazioni blockchain sono pubblicamente visibili
+- **Privacy by design**: Utilizziamo tecnologie per massimizzare la privacy possibile
+
+---
+
+**Questa Privacy Policy è effettiva dal 22 Settembre 2025.**
+
+Per domande specifiche sulla privacy, contattaci a: **privacy@nbctalk.app**
