@@ -217,7 +217,7 @@ La mancata applicazione di una clausola non costituisce rinuncia ai nostri dirit
 ## 13. Contatti e Supporto
 
 ### 13.1 Supporto Generale
-**Email**: support@nbctalk.app  
+**Email**: glo8albusiness@gmail.com 
 **Tempo di risposta**: 24-48 ore  
 **Lingue**: Italiano, inglese, altre su richiesta
 
@@ -229,7 +229,7 @@ La mancata applicazione di una clausola non costituisce rinuncia ai nostri dirit
 ### 13.3 Emergenze di Sicurezza
 **Email**: security@nbctalk.app  
 **Risposta**: Entro 24 ore per problemi di sicurezza  
-**Telefono di emergenza**: +39 XXX XXX XXXX (solo per gravi violazioni sicurezza)
+**Telefono di emergenza**: +39 3518112387 (solo per gravi violazioni sicurezza)
 
 ---
 
