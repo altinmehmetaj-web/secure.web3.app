@@ -412,3 +412,35 @@
     <button onclick="this.parentElement.style.display='none'" style="background:#8B5CF6; color:white; border:none; padding:8px 16px; border-radius:5px;">OK</button>
     <a href="cookie-policy.md" style="color:#8B5CF6; margin-left:10px;">Scopri di Più</a>
 </div>
+<!-- Sezione Contatti -->
+<section class="contact-section" id="contact">
+    <div class="container">
+        <div class="contact-content">
+            <div class="contact-header">
+                <h2>Hai Domande? Contattaci</h2>
+                <p>Siamo qui per aiutarti con NBC Talk. Privacy garantita anche nei contatti!</p>
+            </div>
+            <div class="contact-grid">
+                <!-- Form di Contatto -->
+                <div class="contact-form-wrapper">
+                    <h3>📧 Invia un Messaggio</h3>
+                   <form class="contact-form" id="contactForm" action="https://formspree.io/f/xblzjvkj" method="POST">
+                    <div class="form-group">
+                        <input type="hidden" name="_to" value="glo8albusiness@gmail.com">
+                          <input type="hidden" name="_subject" value="NBC Talk - Nuovo Contatto">
+                            <label for="name">Nome *</label>
+                            <input type="text" id="name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email *</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                       <div class="form-group">
+                            <label for="subject">Oggetto</label>
+                            <select id="subject" name="subject">
+                                <option value="generale">Informazioni Generali</option>
+                                <option value="app">Domande sull'App</option>
+                                <option value="mastercard">Mastercard Anonima</option>
+                                <option value="wallet">Wallet Crypto</option>
+                                <option value="privacy">Privacy e Sicurezza</option>
+             
