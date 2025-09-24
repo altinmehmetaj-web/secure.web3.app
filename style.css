@@ -1667,3 +1667,62 @@ body {
     margin-top: 20px;
     font-size: 14px;
 }
+/* Sezione Richiesta Contatto */
+.contact-request {
+  background: #1a1a2e;
+  padding: 60px 0;
+  text-align: center;
+}
+.contact-request h2 {
+  color: #8B5CF6;
+  margin-bottom: 10px;
+  font-size: 2rem;
+}
+.contact-request p {
+  color: #cccccc;
+  margin-bottom: 30px;
+}
+.contact-request-form {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.contact-request-form .form-group {
+  margin-bottom: 20px;
+  text-align: left;
+}
+.contact-request-form label {
+  display: block;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+.contact-request-form input {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #8B5CF6;
+  border-radius: 8px;
+  background: #2a2a3e;
+  color: white;
+  font-size: 1rem;
+}
+.contact-request-form input:focus {
+  outline: none;
+  border-color: #A855F7;
+  box-shadow: 0 0 5px rgba(168, 85, 247, 0.5);
+}
+.contact-request-form .btn {
+  width: 100%;
+  padding: 14px;
+  background: #8B5CF6;
+  color: white;
+  font-size: 1.1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.contact-request-form .btn:hover {
+  background: #A855F7;
+}
+@media (max-width: 600px) {
+  .contact-request-form { padding: 0 20px; }
+}
